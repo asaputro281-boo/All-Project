@@ -1,6 +1,6 @@
 fun main() {
     // ------------------------------------------
-    // 7. KATEGORI: TIPE DATA ARRAY
+    // 7. KATEGORI: TIPE DATA ARRAY ANGGA
     // ------------------------------------------
     println("=== 7. TIPE DATA ARRAY ===")
 
