@@ -1,0 +1,10 @@
+<style name="Theme.App.Starting" parent="Theme.SplashScreen">
+    <!-- Warna latar belakang cokelat kopi -->
+    <item name="windowSplashScreenBackground">@color/coffee_brown</item>
+
+    <!-- Logo kopi yang kamu simpan di drawable -->
+    <item name="windowSplashScreenAnimatedIcon">@drawable/ic_coffe_logo</item>
+
+    <!-- Tema utama setelah Splash Screen selesai -->
+    <item name="postSplashScreenTheme">@style/Theme.SnapchatSplashScreen</item>
+</style>
